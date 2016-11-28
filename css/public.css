@@ -1,0 +1,16 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dt,dd,form,input,i{
+   margin:0px;
+   padding:0px;
+   font-family:Arial,"微软雅黑";
+   font-size:12px;
+   list-style:none;/*清除列表标签的小圆点*/
+   font-style: normal;
+}
+a{
+    color:#333;
+    text-decoration: none;
+}    
+img{
+	 border: 0;
+	 vertical-align: middle;
+}
